@@ -281,11 +281,11 @@
                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                 </div>
-                <img class="img-fluid rounded w-75" src="{{ asset('img/nazwa.jpeg') }}" alt="" style="height: 300px; object-fit: cover;">
+                <img class="img-fluid rounded w-75" src="{{ asset('img/falah.jpg') }}" alt="" style="height: 300px; object-fit: cover;">
             </div>
             <div class="px-4 py-3">
-                <h5 class="fw-bold m-0">Nazwa Nur Sabilla</h5>
-                <small>0110223154</small>
+                <h5 class="fw-bold m-0">Muhammad Falah</h5>
+                <small>0110223213</small>
             </div>
         </div>
     </div>
@@ -298,45 +298,11 @@
                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                 </div>
-                <img class="img-fluid rounded w-75" src="{{ asset('img/abror.jpeg') }}" alt="" style="height: 300px; object-fit: cover;">
+                <img class="img-fluid rounded w-75" src="{{ asset('img/egi.jpg') }}" alt="" style="height: 300px; object-fit: cover;">
             </div>
             <div class="px-4 py-3">
-                <h5 class="fw-bold m-0">Abror Pratama Harahap</h5>
-                <small>0110223168</small>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
-        <div class="team-item">
-            <div class="d-flex">
-                <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                </div>
-                <img class="img-fluid rounded w-75" src="{{ asset('img/apiz.jpeg') }}" alt="" style="height: 300px; object-fit: cover;">
-            </div>
-            <div class="px-4 py-3">
-                <h5 class="fw-bold m-0">Mohamad Subhan Alhafiz</h5>
-                <small>0110223146</small>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1.2s">
-        <div class="team-item">
-            <div class="d-flex">
-                <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
-                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                </div>
-                <img class="img-fluid rounded w-75" src="{{ asset('img/siti.jpeg') }}" alt="" style="height: 300px; object-fit: cover;">
-            </div>
-            <div class="px-4 py-3">
-                <h5 class="fw-bold m-0">Siti Komariah Hoirunnisa</h5>
-                <small>0110223155</small>
+                <h5 class="fw-bold m-0">Egi Vrinaldi</h5>
+                <small>0110223153</small>
             </div>
         </div>
     </div>
