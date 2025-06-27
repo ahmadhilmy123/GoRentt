@@ -11,7 +11,7 @@ use App\Models\Bank;
 use App\Models\Kendaraan;
 use App\Models\OrderDetail;
 
-class checkoutController extends Controller
+class CheckoutController extends Controller
 {
     public function create(OrderDetail $orderDetail)
     {
