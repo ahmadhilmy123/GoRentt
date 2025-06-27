@@ -131,7 +131,7 @@
                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
                     <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
                 </div>
-                <img class="img-fluid rounded w-75" src="./img/abror.jpeg" alt="" style="height: 300px; object-fit: cover;">
+                <img class="img-fluid rounded w-75" src="./img/egi.jpg" alt="" style="height: 300px; object-fit: cover;">
             </div>
             <div class="px-4 py-3">
                 <h5 class="fw-bold m-0">Egi Vrinaldi</h5>
